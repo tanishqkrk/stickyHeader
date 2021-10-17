@@ -1,0 +1,4 @@
+/* Add this in your CSS header to make a sticky header */
+position: sticky;
+z-index: 1;
+top: 0;
